@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdfaysalbabu&label=Profile%20views&color=0e75b6&style=flat" alt="mdfaysalbabu" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://649ac209e01401075569c84e--papaya-crostata-b06571.netlify.app/](https://649ac209e01401075569c84e--papaya-crostata-b06571.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://legendary-mochi-5cf806.netlify.app/](https://legendary-mochi-5cf806.netlify.app/)
 
 - 💬 Ask me about **React,Javascript,Nodejs**
 
